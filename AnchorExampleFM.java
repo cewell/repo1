@@ -1,6 +1,4 @@
-package us.nd.state.itd.apps.itd.itdappfunction.training.web.example;
 
-import us.nd.state.itd.apps.itd.itdappfunction.training.web.ITDAppFM;
 
 public final class AnchorExampleFM extends ITDAppFM {
 
